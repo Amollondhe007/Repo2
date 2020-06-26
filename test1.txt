@@ -1,0 +1,10 @@
+ Volume in drive C is os
+ Volume Serial Number is FED2-0730
+
+ Directory of C:\Users\Admin\Desktop\MyProject
+
+06/26/2020  01:43 PM    <DIR>          .
+06/26/2020  01:43 PM    <DIR>          ..
+06/26/2020  01:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  70,159,933,440 bytes free
